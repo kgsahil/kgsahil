@@ -1,21 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Sahil%20Gupta&fontSize=70&fontColor=ffffff&desc=Low-Latency%20Systems%20Engineer%20%7C%20HFT%20Enthusiast&descAlign=50&descAlignY=80" width="100%" alt="Sahil Gupta Header" />
-
-  <br />
-
-  <a href="https://linkedin.com/in/kgsahil">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:sahilgupta.17299@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  
-  <br />
-  <br />
-
-  <i>"Optimizing the nanoseconds that matter."</i>
-</div>
----
 
 ### 👨‍💻 About Me
 I am a **Systems Engineer** with **4+ years of institutional experience** at **UBS**, building the backbone of **Apex** (Repo Trading System). My specialization lies in **low-latency architecture**, **lock-free concurrency**, and **market data processing**.
